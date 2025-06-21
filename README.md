@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Aspiring Full-Stack Web & App Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dunch0&label=Profile%20views&color=0e75b6&style=flat" alt="dunch0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dunch0" alt="dunch0" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
